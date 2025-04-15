@@ -111,15 +111,3 @@ Or a C++/Python-based simulator (if HDL is not required)
 
 
 ---
-
-Final Deliverable
-
-Functional processor simulation showing 4 pipeline stages.
-
-Test cases showing execution of ADD, SUB, LOAD.
-
-Documentation or report explaining your design.
-
-(Optional) Screenshots or waveform outputs of simulation.
-
----

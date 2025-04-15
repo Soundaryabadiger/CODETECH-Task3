@@ -1,11 +1,11 @@
 Name - Soundarya Badiger
-Company - CODEYECH IT SOLUTIONS
+Company - CODETECH IT SOLUTIONS
 ID - CT04WM61
 Domain -VLSI
 Duration -March 18th,2025 to April 18th,2025
 Mentor - Vaishali
-Sure! Here’s an overview of your task for designing a 4-stage pipelined processor that supports basic instructions like ADD, SUB, and LOAD.
 
+Here’s an overview of your task for designing a 4-stage pipelined processor that supports basic instructions like ADD, SUB, and LOAD.
 
 ---
 
